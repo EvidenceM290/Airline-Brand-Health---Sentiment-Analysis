@@ -4,7 +4,7 @@
 # **Airline Brand Health - Sentiment Analysis**
 
 ## **Overview**
-This project evaluates the **brand health** of two major airlines—**Southwest** and **American Airlines**—through sentiment analysis. The analysis utilizes **machine learning and natural language processing (NLP)** techniques to quantify brand perception based on generated essays.
+This project evaluates the **brand health** of two major airlines—**Southwest** and **American Airlines**—through sentiment analysis. The analysis utilizes **machine learning and natural language processing (NLP)** techniques to quantify brand perception based on publicly available articles, news headlines, and reviews converted to pdfs.
 
 The sentiment analysis was conducted using:
 - **KNIME Workflow** for text preprocessing and model execution.
