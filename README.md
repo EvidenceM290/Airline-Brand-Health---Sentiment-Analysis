@@ -82,19 +82,6 @@ The sentiment analysis was conducted using:
 4. **Frequency Analysis**: TF-IDF and term frequency weighting.
 5. **Visualization**: Word clouds and sentiment statistics.
 
-### **R Association Rules (`arules` package)**
-```r
-require(arules)
-
-## Load Data
-Groceries <- read.transactions(file="transactions.csv", sep=" ", encoding="latin1", header=TRUE)
-
-## Association Rules Analysis
-rules <- apriori(Groceries, parameter = list(supp=0.007, conf=0.25, minlen=2))
-
-## Top 10 rules by confidence
-inspect(sort(rules, by="confidence", decreasing=TRUE)[1:10])
-```
 
 ---
 
@@ -110,7 +97,7 @@ inspect(sort(rules, by="confidence", decreasing=TRUE)[1:10])
 ## **Future Enhancements**
 - Improve **sentiment lexicon** with **contextual embeddings**.
 - Use **deep learning (BERT, LSTMs) for better sentiment classification**.
-- **Expand dataset** to include **real customer reviews** instead of LLM-generated text.
+
 
 ---
 
