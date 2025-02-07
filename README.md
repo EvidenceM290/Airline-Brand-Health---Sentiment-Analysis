@@ -57,20 +57,23 @@ The sentiment analysis was conducted using:
 ## **Visualizations**
 
 ### **American Airlines Analysis**
-![American Statistics](https://github.com/EvidenceM290/Pricing-Sensitivity-Selection-Bias-Analysis-Starbucks-Rewards-Program-/blob/main/images/American%20Statistics.png)
+![Sentiment Analysis Statistics](https://github.com/EvidenceM290/Airline-Brand-Health---Sentiment-Analysis/blob/main/images/American%20Statistics.png)
 
-![American Visual](https://github.com/EvidenceM290/Pricing-Sensitivity-Selection-Bias-Analysis-Starbucks-Rewards-Program-/blob/main/images/American%20Visual.png)
 
-![American Model Workflow](https://github.com/EvidenceM290/Pricing-Sensitivity-Selection-Bias-Analysis-Starbucks-Rewards-Program-/blob/main/images/AmericanModelFlow.png)
+![Word Cloud Analysis](https://github.com/EvidenceM290/Airline-Brand-Health---Sentiment-Analysis/blob/main/images/American%20Visual.png)
+
+
+![AmericanModelFlow](https://github.com/EvidenceM290/Airline-Brand-Health---Sentiment-Analysis/blob/main/images/AmericanModelFlow.png)
 
 ---
 
 ### **Southwest Airlines Analysis**
-![Southwest Statistics](https://github.com/EvidenceM290/Pricing-Sensitivity-Selection-Bias-Analysis-Starbucks-Rewards-Program-/blob/main/images/SouthWest%20Statistics.png)
 
-![Southwest Visual](https://github.com/EvidenceM290/Pricing-Sensitivity-Selection-Bias-Analysis-Starbucks-Rewards-Program-/blob/main/images/SouthWest%20Visual.png)
+![Sentiment Analysis Statistics](https://github.com/EvidenceM290/Airline-Brand-Health---Sentiment-Analysis/blob/main/images/SouthWest%20Statistics.png)
 
-![Southwest Model Workflow](https://github.com/EvidenceM290/Pricing-Sensitivity-Selection-Bias-Analysis-Starbucks-Rewards-Program-/blob/main/images/SouthWestModelFlow.png)
+![Word Cloud Analysis](https://github.com/EvidenceM290/Airline-Brand-Health---Sentiment-Analysis/blob/main/images/SouthWest%20Visual.png)
+
+![SouthWestModelFlow](https://github.com/EvidenceM290/Airline-Brand-Health---Sentiment-Analysis/blob/main/images/SouthWestModelFlow.png)
 
 ---
 
