@@ -105,8 +105,8 @@ The sentiment analysis was conducted using:
 ```
 /Airline-Sentiment-Analysis/
 │── data/  (PDF essays for both airlines)
-│── models/  (KNIME workflows, R scripts)
-│── results/  (Sentiment scores, association rules)
+│── models/  (KNIME workflows, R )
+│── Business Report/  (Management Report)
 │── images/  (Visualizations)
 │── README.md  (This document)
 │── Airline_Brand_Health.Rmd  (Main RMarkdown Report)
