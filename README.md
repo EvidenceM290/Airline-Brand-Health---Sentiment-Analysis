@@ -57,11 +57,14 @@ The sentiment analysis was conducted using:
 ## **Visualizations**
 
 ### **American Airlines Analysis**
+
+**Sentiment Analysis Statistics**
 ![Sentiment Analysis Statistics](https://github.com/EvidenceM290/Airline-Brand-Health---Sentiment-Analysis/blob/main/images/American%20Statistics.png)
 
-
+**Word Cloud Analysis**
 ![Word Cloud Analysis](https://github.com/EvidenceM290/Airline-Brand-Health---Sentiment-Analysis/blob/main/images/American%20Visual.png)
 
+**Knime Model Workflow**
 
 ![AmericanModelFlow](https://github.com/EvidenceM290/Airline-Brand-Health---Sentiment-Analysis/blob/main/images/AmericanModelFlow.png)
 
@@ -69,10 +72,13 @@ The sentiment analysis was conducted using:
 
 ### **Southwest Airlines Analysis**
 
+**Sentiment Analysis Statistics**
 ![Sentiment Analysis Statistics](https://github.com/EvidenceM290/Airline-Brand-Health---Sentiment-Analysis/blob/main/images/SouthWest%20Statistics.png)
 
+**Word Cloud Analysis**
 ![Word Cloud Analysis](https://github.com/EvidenceM290/Airline-Brand-Health---Sentiment-Analysis/blob/main/images/SouthWest%20Visual.png)
 
+**Knime Model Workflow**
 ![SouthWestModelFlow](https://github.com/EvidenceM290/Airline-Brand-Health---Sentiment-Analysis/blob/main/images/SouthWestModelFlow.png)
 
 ---
